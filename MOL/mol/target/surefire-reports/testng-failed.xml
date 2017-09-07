@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [org.markelgroup.mol.NewTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="org.markelgroup.mol.NewTest">
+        <methods>
+          <include name="f"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- org.markelgroup.mol.NewTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [org.markelgroup.mol.NewTest] -->
