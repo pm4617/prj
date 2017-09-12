@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite1]">
+<suite name="Failed suite [Default suite]">
   <parameter name="testdata" value="login_data.xlsx"/>
-  <test name="Smoke(failed)">
+  <test name="Default test(failed)">
     <classes>
       <class name="org.markelgroup.mol.NewTest">
         <methods>
@@ -11,5 +11,5 @@
         </methods>
       </class> <!-- org.markelgroup.mol.NewTest -->
     </classes>
-  </test> <!-- Smoke(failed) -->
-</suite> <!-- Failed suite [Suite1] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
